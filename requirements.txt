@@ -4,7 +4,5 @@ ytmusicapi
 yt-dlp
 cachetools
 flask-cors
-logging
-datetime
-hashlib
 gunicorn
+
